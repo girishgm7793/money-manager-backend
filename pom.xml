@@ -11,7 +11,7 @@
 	<groupId>com.money</groupId>
 	<artifactId>MoneyManager</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>MoneyManager</name>
 	<description>money-manager-backend</description>
 	<url/>
